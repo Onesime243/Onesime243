@@ -1,47 +1,51 @@
-# Bonjour, je suis Onésime Mbulayi 
+# Hi, I'm Onésime Mbulayi 
 
-## Biostatisticien | Data Scientist | Chercheur en épidémiologie
+## Biostatistician | Data Scientist | Epidemiology Researcher
 
-Doctorant en **biostatistique et épidémiologie** à l’Université de Padoue, 
-je travaille à l’intersection de l’intelligence artificielle, de la santé 
-publique, de la modélisation mathématique et de l’analyse des données biomédicales.
-
----
-
-## Domaines d’expertise
-
-- Intelligence artificielle appliquée à la santé
-- Biostatistique et épidémiologie
-- Modélisation mathématique des épidémies
-- Machine Learning et Deep Learning
-- Bioinformatique et données multi-omiques
-- Redaction Scientifique
-- Visualisation et tableaux de bord épidémiologiques
-- Aide à la décision en santé publique
-
-## Travaux de recherche
-
-### Intelligence artificielle et cancer du poumon
-
-Revue systématique et méta-analyse consacrée à l’utilisation de l’intelligence 
-artificielle pour la caractérisation subcellulaire du cancer du poumon non à 
-petites cellules, à partir de données multi-omiques et d’images histologiques.
-
-### Modélisation des épidémies
-
-Développement de modèles compartimentaux **SEIR et SEIHDR**, avec contrôle optimal, 
-pour analyser les stratégies de riposte aux épidémies.
-
-### Intelligence artificielle pour la tuberculose
-
-Participation à des travaux internationaux portant sur l’intelligence artificielle 
-appliquée au diagnostic et à la surveillance de la tuberculose.
+I am a PhD researcher in **Biostatistics and Epidemiology** at the University of Padua.  
+My work lies at the intersection of artificial intelligence, public health, 
+mathematical modeling, biomedical data analysis, and epidemiological research.
 
 ---
 
-## 💻 Compétences techniques
+## 🎯 Areas of Expertise
 
-### Programmation et développement
+- Artificial Intelligence for Healthcare
+- Biostatistics and Epidemiology
+- Mathematical Modeling of Infectious Diseases
+- Machine Learning and Deep Learning
+- Bioinformatics and Multi-Omics Data Analysis
+- Scientific Writing and Research Communication
+- Epidemiological Data Visualization and Dashboard Development
+- Public Health Decision Support Systems
+
+---
+
+## 🔬 Research Areas
+
+### Artificial Intelligence and Lung Cancer
+
+I conduct systematic review and meta-analysis research on the application of 
+artificial intelligence to the subcellular characterization of non-small cell 
+lung cancer using integrated multi-omics data and histopathological imaging.
+
+### Infectious Disease Modeling
+
+I develop compartmental epidemic models, including **SIR, SEIR, and SEIHDR models**, 
+combined with optimal control methods to assess epidemic response strategies and 
+support evidence-based public health decision-making.
+
+### Artificial Intelligence for Tuberculosis
+
+I contribute to international research projects investigating the application 
+of artificial intelligence to tuberculosis diagnosis, surveillance, and clinical 
+decision support.
+
+---
+
+## 💻 Technical Skills
+
+### Programming and Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -54,7 +58,7 @@ appliquée au diagnostic et à la surveillance de la tuberculose.
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-1F9E89?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Data Science et intelligence artificielle
+### Data Science and Artificial Intelligence
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -62,7 +66,7 @@ appliquée au diagnostic et à la surveillance de la tuberculose.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Orange Data Mining](https://img.shields.io/badge/Orange_Data_Mining-FF7900?style=for-the-badge&logo=orange&logoColor=white)
 
-### Statistique et analyse de données
+### Statistics and Data Analysis
 
 ![SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![OriginPro](https://img.shields.io/badge/OriginPro-EF6C00?style=for-the-badge&logoColor=white)
@@ -71,7 +75,7 @@ appliquée au diagnostic et à la surveillance de la tuberculose.
 ![Biostatistics](https://img.shields.io/badge/Biostatistics-1565C0?style=for-the-badge&logoColor=white)
 ![Epidemiology](https://img.shields.io/badge/Epidemiology-C62828?style=for-the-badge&logoColor=white)
 
-### Modélisation mathématique et épidémiologique
+### Mathematical and Epidemiological Modeling
 
 ![SIR Model](https://img.shields.io/badge/SIR_Model-2E7D32?style=for-the-badge&logoColor=white)
 ![SEIR Model](https://img.shields.io/badge/SEIR_Model-388E3C?style=for-the-badge&logoColor=white)
@@ -79,7 +83,7 @@ appliquée au diagnostic et à la surveillance de la tuberculose.
 ![Optimal Control](https://img.shields.io/badge/Optimal_Control-00695C?style=for-the-badge&logoColor=white)
 ![Compartmental Models](https://img.shields.io/badge/Compartmental_Models-558B2F?style=for-the-badge&logoColor=white)
 
-### Outils de recherche et de développement
+### Research and Development Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -91,26 +95,29 @@ appliquée au diagnostic et à la surveillance de la tuberculose.
 
 ---
 
-## 📚 Publications et activités scientifiques
+## 📚 Publications and Scientific Activities
 
-- Intelligence artificielle appliquée au diagnostic de la tuberculose 
-- Modélisation mathématique et contrôle optimal des épidémies
-- Intelligence artificielle appliquée au cancer du poumon
-- Analyse de données biomédicales et épidémiologiques
-- Enseignement de la Data Science et de la programmation
-
-## 📊 Statistiques GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Onesime243&show_icons=true&theme=github_dark)
-
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Onesime243&layout=compact&theme=github_dark)
+- Artificial Intelligence for Tuberculosis Diagnosis
+- Mathematical Modeling and Optimal Control of Infectious Diseases
+- Artificial Intelligence for Lung Cancer Research
+- Biomedical and Epidemiological Data Analysis
+- Scientific Writing and Research Communication
+- Teaching Data Science, Biostatistics, and Programming
 
 ---
 
-## 📫 Me contacter
+## 📊 GitHub Statistics
 
-- 🌍 Portfolio : [Mon Site](https://portfolio-onesime-mbulayi.one243.chatgpt.site/)
-- 💼 LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/onesime-mbulayi-557356b5 )
-- 🎓 Google Scholar : [Mes publications](https://scholar.google.com/citations?hl=en&user=2r_Wz7MAAAAJ)
-- 🔬 ORCID : [Mon profil ORCID](https://orcid.org/0000-0001-9851-1535)
-- ✉️ Email : `mbulayi.onesime@unikin.ac.cd`
+![Onésime's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Onesime243&show_icons=true&theme=github_dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onesime243&layout=compact&theme=github_dark)
+
+---
+
+## 📫 Contact Me
+
+- 🌍 Portfolio: [Visit My Website](https://portfolio-onesime-mbulayi.one243.chatgpt.site/)
+- 💼 LinkedIn: [View My LinkedIn Profile](https://www.linkedin.com/in/onesime-mbulayi-557356b5)
+- 🎓 Google Scholar: [View My Publications](https://scholar.google.com/citations?hl=en&user=2r_Wz7MAAAAJ)
+- 🔬 ORCID: [View My ORCID Profile](https://orcid.org/0000-0001-9851-1535)
+- ✉️ Email: [mbulayi.onesime@unikin.ac.cd](mailto:mbulayi.onesime@unikin.ac.cd)
