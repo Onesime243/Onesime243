@@ -111,6 +111,6 @@ appliquée au diagnostic et à la surveillance de la tuberculose.
 
 - 🌍 Portfolio : [Mon Site](https://portfolio-onesime-mbulayi.one243.chatgpt.site/)
 - 💼 LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/onesime-mbulayi-557356b5 )
-- 🎓 Google Scholar : [Mes publications](https://scholar.google.com/citations?view_op=search_authors&mauthors=Onesime+Mbulayi&hl=en&oi=ao)
-- 🔬 ORCID : [Mon profil ORCID](0000000198511535)
+- 🎓 Google Scholar : [Mes publications]([https://scholar.google.com/citations?view_op=search_authors&mauthors=Onesime+Mbulayi&hl=en&oi=ao](https://scholar.google.com/citations?hl=en&user=2r_Wz7MAAAAJ))
+- 🔬 ORCID : [Mon profil ORCID](https://orcid.org/0000-0001-9851-1535)
 - ✉️ Email : `mbulayi.onesime@unikin.ac.cd`
