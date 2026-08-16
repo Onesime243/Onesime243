@@ -8,14 +8,14 @@ publique, de la modélisation mathématique et de l’analyse des données biom�
 
 ---
 
-## 🎯 Domaines d’expertise
+## Domaines d’expertise
 
 - Intelligence artificielle appliquée à la santé
 - Biostatistique et épidémiologie
 - Modélisation mathématique des épidémies
 - Machine Learning et Deep Learning
 - Bioinformatique et données multi-omiques
-- Revues systématiques et méta-analyses
+- Redaction Scientifique
 - Visualisation et tableaux de bord épidémiologiques
 - Aide à la décision en santé publique
 
@@ -41,11 +41,17 @@ appliquée au diagnostic et à la surveillance de la tuberculose.
 
 ## 💻 Compétences techniques
 
-### Programmation et analyse
+### Programmation et développement
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-008DE5?style=for-the-badge&logo=posit&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-1F9E89?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Data Science et intelligence artificielle
@@ -54,20 +60,43 @@ appliquée au diagnostic et à la surveillance de la tuberculose.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Orange Data Mining](https://img.shields.io/badge/Orange_Data_Mining-FF7900?style=for-the-badge&logo=orange&logoColor=white)
 
-### Développement et outils
+### Statistique et analyse de données
+
+![SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![OriginPro](https://img.shields.io/badge/OriginPro-EF6C00?style=for-the-badge&logoColor=white)
+![Forecasting](https://img.shields.io/badge/Forecasting-00897B?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Survival Analysis](https://img.shields.io/badge/Survival_Analysis-7B1FA2?style=for-the-badge&logoColor=white)
+![Biostatistics](https://img.shields.io/badge/Biostatistics-1565C0?style=for-the-badge&logoColor=white)
+![Epidemiology](https://img.shields.io/badge/Epidemiology-C62828?style=for-the-badge&logoColor=white)
+
+### Modélisation mathématique et épidémiologique
+
+![SIR Model](https://img.shields.io/badge/SIR_Model-2E7D32?style=for-the-badge&logoColor=white)
+![SEIR Model](https://img.shields.io/badge/SEIR_Model-388E3C?style=for-the-badge&logoColor=white)
+![SEIHDR Model](https://img.shields.io/badge/SEIHDR_Model-43A047?style=for-the-badge&logoColor=white)
+![Optimal Control](https://img.shields.io/badge/Optimal_Control-00695C?style=for-the-badge&logoColor=white)
+![Compartmental Models](https://img.shields.io/badge/Compartmental_Models-558B2F?style=for-the-badge&logoColor=white)
+
+### Outils de recherche et de développement
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)
+![Mendeley](https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 📚 Publications et activités scientifiques
 
-- Intelligence artificielle appliquée au santé publique et Medecine
+- Intelligence artificielle appliquée au diagnostic de la tuberculose 
 - Modélisation mathématique et contrôle optimal des épidémies
-- Analyse de données
+- Intelligence artificielle appliquée au cancer du poumon
+- Analyse de données biomédicales et épidémiologiques
 - Enseignement de la Data Science et de la programmation
 
 ## 📊 Statistiques GitHub
