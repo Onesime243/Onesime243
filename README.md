@@ -8,7 +8,7 @@ mathematical modeling, biomedical data analysis, and epidemiological research.
 
 ---
 
-## 🎯 Areas of Expertise
+## Areas of Expertise
 
 - Artificial Intelligence for Healthcare
 - Biostatistics and Epidemiology
@@ -21,7 +21,7 @@ mathematical modeling, biomedical data analysis, and epidemiological research.
 
 ---
 
-## 🔬 Research Areas
+## Research Areas
 
 ### Artificial Intelligence and Lung Cancer
 
@@ -43,7 +43,7 @@ decision support.
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Programming and Development
 
@@ -95,7 +95,7 @@ decision support.
 
 ---
 
-## 📚 Publications and Scientific Activities
+## Publications and Scientific Activities
 
 - Artificial Intelligence for Tuberculosis Diagnosis
 - Mathematical Modeling and Optimal Control of Infectious Diseases
@@ -106,18 +106,18 @@ decision support.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
-![Onésime's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Onesime243&show_icons=true&theme=github_dark)
+[Onésime's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Onesime243&show_icons=true&theme=github_dark)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onesime243&layout=compact&theme=github_dark)
+[Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onesime243&layout=compact&theme=github_dark)
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-- 🌍 Portfolio: [Visit My Website](https://portfolio-onesime-mbulayi.one243.chatgpt.site/)
-- 💼 LinkedIn: [View My LinkedIn Profile](https://www.linkedin.com/in/onesime-mbulayi-557356b5)
-- 🎓 Google Scholar: [View My Publications](https://scholar.google.com/citations?hl=en&user=2r_Wz7MAAAAJ)
-- 🔬 ORCID: [View My ORCID Profile](https://orcid.org/0000-0001-9851-1535)
-- ✉️ Email: [mbulayi.onesime@unikin.ac.cd](mailto:mbulayi.onesime@unikin.ac.cd)
+- Portfolio: [Visit My Website](https://portfolio-onesime-mbulayi.one243.chatgpt.site/)
+- LinkedIn: [View My LinkedIn Profile](https://www.linkedin.com/in/onesime-mbulayi-557356b5)
+- Google Scholar: [View My Publications](https://scholar.google.com/citations?hl=en&user=2r_Wz7MAAAAJ)
+- ORCID: [View My ORCID Profile](https://orcid.org/0000-0001-9851-1535)
+- Email: [mbulayi.onesime@unikin.ac.cd](mailto:mbulayi.onesime@unikin.ac.cd)
